@@ -12,6 +12,16 @@
 			"database": "talentify",
 			"username": "sqluser",
 			"password": "password"
+		},
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"name": "mypostgres",
+			"database": "talentify",
+			"username": "postgres",
+			"password": "00000"
 		}
 	]
 }
