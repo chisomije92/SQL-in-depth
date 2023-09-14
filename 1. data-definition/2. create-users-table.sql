@@ -8,5 +8,5 @@ CREATE TABLE users (
  
 )
 -- for MYSQL, current_status is created as  " current_status ENUM('employed', 'unemployed', 'self-employed')"
--- ENUM is not recognized as a type in POSTGRES, hence why we needed to create a type for it here insteads
+-- ENUM is not recognized as a type in POSTGRES, hence why we needed to create a type for it here instead
 
