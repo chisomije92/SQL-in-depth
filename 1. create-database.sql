@@ -1,2 +1,2 @@
---CREATE DATABASE talentify;
+CREATE DATABASE talentify;
 

@@ -2,7 +2,8 @@
 	"sqltools.connections": [
 		{
 			"mysqlOptions": {
-				"authProtocol": "default"
+				"authProtocol": "default",
+				"enableSsl": "Disabled"
 			},
 			"previewLimit": 50,
 			"server": "localhost",
@@ -10,18 +11,18 @@
 			"driver": "MySQL",
 			"name": "mysql",
 			"database": "talentify",
-			"username": "sqluser",
-			"password": "password"
+			"username": "root",
+			"password": "jerry"
 		},
 		{
 			"previewLimit": 50,
 			"server": "localhost",
 			"port": 5432,
 			"driver": "PostgreSQL",
-			"name": "mypostgres",
+			"name": "postgres1",
 			"database": "talentify",
 			"username": "postgres",
-			"password": "00000"
+			"password": "JERRY"
 		}
 	]
 }
