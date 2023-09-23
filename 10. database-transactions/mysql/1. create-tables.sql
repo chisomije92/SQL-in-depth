@@ -17,3 +17,6 @@ CREATE TABLE orders(
     customer_id INT REFERENCES customers
 );
 
+
+-- DROP TABLE customers;
+-- DROP TABLE orders
