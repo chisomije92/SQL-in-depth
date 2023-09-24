@@ -1,0 +1,1 @@
+CREATE INDEX salaryIdx ON users (salary);
