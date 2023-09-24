@@ -1,1 +1,3 @@
-CREATE INDEX salaryIdx ON users (salary);
+-- CREATE INDEX salaryIdx ON users (salary);
+
+DROP INDEX salaryIdx
