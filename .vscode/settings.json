@@ -6,7 +6,7 @@
 			"port": 5432,
 			"driver": "PostgreSQL",
 			"name": "postgres1",
-			"database": "restaurants",
+			"database": "indexes",
 			"username": "postgres",
 			"password": "JERRY"
 		},
@@ -20,7 +20,7 @@
 			"port": 3306,
 			"driver": "MySQL",
 			"name": "mysql",
-			"database": "restaurants",
+			"database": "indexes",
 			"username": "root",
 			"password": "jerry"
 		}
