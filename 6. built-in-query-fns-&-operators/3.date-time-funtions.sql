@@ -2,6 +2,12 @@
 -- SELECT EXTRACT(ISODOW FROM last_checkin), last_checkin
 -- FROM memberships;
 
+-- SELECT EXTRACT(MONTH FROM last_checkin), last_checkin FROM memberships
+
+-- SELECT EXTRACT(DAY FROM last_checkin), last_checkin FROM memberships
+
+
+--mysql
 -- SELECT WEEKDAY(last_checkin) + 1, last_checkin
 -- FROM memberships;
 
