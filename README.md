@@ -4,7 +4,7 @@ SQL (Structured Query Language) is a powerful tool for managing and manipulating
 
 ## Table of contents
 
-- [Shop-products CRUD App](#shop-products-crud-app)
+- [SQL-in-depth](#SQL-in-depth)
   - [Table of contents](#table-of-contents)
     - [Introduction](#introduction)
     - [MySQL](#mysql)
