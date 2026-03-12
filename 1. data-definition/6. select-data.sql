@@ -1,2 +1,4 @@
-SELECT * FROM users;
-SELECT AVG(salary) FROM users;
+SELECT *
+FROM users;
+SELECT AVG(salary)
+FROM users;
