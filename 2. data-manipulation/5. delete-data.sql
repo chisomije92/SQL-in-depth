@@ -1,2 +1,2 @@
-    DELETE FROM sales
-    WHERE customer_name='John Doe'
+DELETE FROM sales
+WHERE customer_name = 'Max Schwarz';
